@@ -2,7 +2,7 @@
   "name": "new-ts-format",
   "version": "1.0.0",
   "description": "New typescript project",
-  "main": "dist/index.js",
+  "main": "ts/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TuncayBasak25/new-ts-format.git"
